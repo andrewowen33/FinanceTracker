@@ -24,4 +24,24 @@ Finance Tracker is a Python-based application designed to help you manage and tr
 3. Install the required libraries by running:
    ```sh
    pip install pandas matplotlib
+   ```
+   or
+   ```sh
+   pip3 install pandas matplotlib
+   ```
+   
+   
+
+## Usage
+
+1. Run the application by executing:
+   ```sh
+   python main.py
+   ```
+   or
+   ```sh
+   python3 main.py
+   ```
+   
+
 
