@@ -25,10 +25,11 @@ Finance Tracker is a Python-based application designed to help you manage and tr
    ```sh
    pip install pandas matplotlib
    ```
-   or
+   for Windows OS or
    ```sh
    pip3 install pandas matplotlib
    ```
+   for Mac OS
    
    
 
@@ -38,10 +39,11 @@ Finance Tracker is a Python-based application designed to help you manage and tr
    ```sh
    python main.py
    ```
-   or
+   for Windows OS or
    ```sh
    python3 main.py
    ```
+   for Mac OS
    
 
 
